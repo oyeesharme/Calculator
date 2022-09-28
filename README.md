@@ -1,0 +1,1 @@
+A calculator app which performs basic arithmetic operations
